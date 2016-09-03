@@ -7,4 +7,4 @@ Creating a new branck is quick & simple.
 =======
 Creating a new branck is quick AND simple.
 >>>>>>> feature1
-Change readme.txt.
+Change readme.
