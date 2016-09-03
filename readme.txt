@@ -3,3 +3,4 @@ Git is a free software distributed under GPL.
 Git has a mutal index called stage.
 Git tracks changes of files.
 Creating a new branck is quick.
+Git is funny.
